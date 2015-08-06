@@ -1,4 +1,7 @@
-{
+  "pleading" : {
+    "keywords" : ["wanting" , "wishing ", "hoping" , "in need of something"],
+    "char" : "😆" ,
+    "category" : "people"
   "grinning": {
     "keywords": ["face", "smile", "happy", "joy"],
     "char": "😀",
@@ -30,7 +33,7 @@
     "category": "people"
   },
   "laughing": {
-    "keywords": ["happy", "joy", "lol", "satisfied", "haha", "face", "glad"],
+    "keywords": ["happy", "joy", "lol", "satisfied", "haha", "face", "glad", "joyus"],
     "char": "😆",
     "category": "people"
   },
@@ -350,8 +353,8 @@
     "category": "people"
   },
   "baby": {
-    "keywords": ["child", "boy", "girl", "toddler"],
-    "char": "👶",
+    "keywords": ["child", "boy", "girl", "],
+    "char": 
     "category": "people"
   },
   "boy": {
@@ -365,7 +368,7 @@
     "category": "people"
   },
   "man": {
-    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache"],
+    "keywords": ["mustache", "father", "dad", "guy", "sir", "moustache"],
     "char": "👨",
     "category": "people"
   },
@@ -400,7 +403,7 @@
     "category": "people"
   },
   "dancers": {
-    "keywords": ["female", "bunny", "women", "girls"],
+    "keywords": ["female", "bunny", "women", "girls",],
     "char": "👯",
     "category": "people"
   },
@@ -435,17 +438,17 @@
     "category": "people"
   },
   "baby": {
-    "keywords": ["child", "boy", "girl", "toddler"],
+    "keywords": ["child", "boy", "girl", "toddler how is a baby a toddler"],
     "char": "👶",
     "category": "people"
   },
   "construction_worker": {
-    "keywords": ["male", "human", "wip", "guy", "build"],
+    "keywords": ["male", "human", "wip", "guy", "build", "cat calling"],
     "char": "👷",
     "category": "people"
   },
   "princess": {
-    "keywords": ["girl", "woman", "female", "blond", "crown", "royal", "queen"],
+    "keywords": ["girl", "woman", "female", "crown", "royal", "queen"],
     "char": "👸",
     "category": "people"
   },
@@ -480,7 +483,7 @@
     "category": "people"
   },
   "hankey": {
-    "keywords": ["poop", "shitface", "fail", "turd"],
+    "keywords": ["poop", "shitface", "fail", "turd", "shit"],
     "char": "💩",
     "category": "people"
   },
@@ -530,7 +533,7 @@
     "category": "people"
   },
   "person_frowning": {
-    "keywords": ["female", "girl", "woman", "sad", "depressed", "discouraged", "unhappy"],
+    "keywords": ["female", "girl", "woman", "sad", "depressed", "discouraged", "unhappy", "dejected"],
     "char": "🙍",
     "category": "people"
   },
